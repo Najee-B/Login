@@ -79,10 +79,7 @@ li{
             margin-left: 10px;
         }
         body{
-            width: 300px;
-        }
-        .container{
-            width: 400px;
+            width: auto;
         }
     }
     
