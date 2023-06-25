@@ -7,7 +7,7 @@ body,html{
 }
 .container
 {
-    background: linear-gradient(hwb(11 0% 8%),rgb(255, 177, 31));
+    background: linear-gradient(orange,yellow);
     margin: 0px;
     padding: 0px;
     width: 100%;
@@ -53,7 +53,7 @@ li{
    
 }
 .inner{
-    margin:350px 20px 40px 360px ;
+    margin:350px 20px 40px 320px ;
 }
 .left_circle{
     background: linear-gradient(rgb(255, 177, 31),hwb(11 0% 8%));
@@ -81,7 +81,7 @@ li{
     border-radius:1000px 1000px 0 0 ;
     height: 250px;
     width: 500px;
-    margin: 700px 0px 0px 350px;
+    margin: 650px 0px 0px 350px;
 }
 .imgd{
     height: 80px;
