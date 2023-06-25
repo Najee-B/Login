@@ -79,8 +79,9 @@ li{
             margin-left: 10px;
         }
         body{
-            width: auto;
-        }
+            max-width: 300px;
+        
+        
     }
     
 
