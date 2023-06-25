@@ -16,15 +16,15 @@ function Home() {
         <li>Log in</li>
     </ul></nav>
     <div className="top_circle">
-      <div className="inner">
-        <h2>Music for everyone.</h2>
-        <p className='p'>Millions of songs. No credit card needed.</p>
-        <button className="spotify">GET SPOTIFY FREE</button>
-    </div></div>
+      </div>
         <div className="left_circle"></div>
         <div className="middle_circle"></div>
         <div className="right_circle"></div>
-        
+        <div className="inner">
+        <h2>Music for everyone.</h2>
+        <p className='p'>Millions of songs. No credit card needed.</p>
+        <button className="spotify">GET SPOTIFY FREE</button>
+    </div>
     </div> 
   )
 }
