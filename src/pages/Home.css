@@ -75,8 +75,8 @@ li{
             margin-left: 20px;
             padding-left: 0px;
         }
-        .navi{
-            width: 600px;
+        ul,.imgd{
+            margin-left: 10px;
         }
     }
     
@@ -107,7 +107,6 @@ li{
 img{
     height: 80px;
     width: 250px;
-    margin-left: 60px;
 }
 h2{
     font-size: 70px;
