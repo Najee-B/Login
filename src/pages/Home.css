@@ -78,6 +78,12 @@ li{
         ul,.imgd{
             margin-left: 10px;
         }
+        body{
+            width: 500px;
+        }
+        .container{
+            width: 400px;
+        }
     }
     
 
