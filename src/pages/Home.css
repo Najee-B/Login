@@ -67,10 +67,10 @@ li{
     background: linear-gradient(hwb(11 0% 8%),rgb(255, 177, 31));
     position:absolute;
     border-radius:1000px 0 0 0 ;
-    height: 200px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
     right: 0px;
-    margin: 700px 0px 0px 400px;
+    margin: 600px 0px 0px 400px;
 }
 .middle_circle{
     background: linear-gradient(hwb(11 0% 8%),rgb(255, 177, 31));
