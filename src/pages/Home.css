@@ -67,11 +67,16 @@ li{
     position: absolute;
     flex-direction: column;
     margin:300px 180px 300px 560px ;
+    align-items: center;
 }   
 @media only screen and (max-width:800px) {
     
         .inner{
             margin-left: 20px;
+            padding-left: 0px;
+        }
+        .navi{
+            width: 600px;
         }
     }
     
@@ -115,7 +120,7 @@ h2{
     font-size: 20px;
     color: white;
     margin-top: 3px;
-    margin-left: 100px;
+    
     width: 500px;
 }
 .spotify{
@@ -124,6 +129,6 @@ h2{
     border-radius: 30px;
     width: 200px;
     height: 40px;
-    margin-left: 150px;
+    margin-right: 100px;
     border: none;
 }
